@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+dist/
+release/
+work/
+Runtime/.venv/
+Runtime/python/
+Models/
+models/
+__pycache__/
+*.pyc
+*.egg-info/
+*.xcuserstate

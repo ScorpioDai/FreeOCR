@@ -55,8 +55,8 @@ ONNX 模型。安装后可以完全离线使用，不需要账户、下载模型
 - 当前 App 约需 900MB 磁盘空间。
 - 最低 8GB 内存，处理大型多页 PDF 建议 16GB 或以上。
 
-App 约 889MB 是因为它是可以离线搬运的完整运行包。两个 ONNX 模型仓库约
-133MB；便携 Python/OCR 环境约 742MB，其中包含 PaddleOCR、PaddleX、
+当前 App 约 832MB（优化前构建约 889MB），因为它是可以离线搬运的完整运行包。
+两个 ONNX 模型仓库约 133MB；便携 Python/OCR 环境约 685MB，其中包含 PaddleOCR、PaddleX、
 ONNX Runtime、OpenCV、PDFium、FastAPI 及其传递依赖。运行环境是体积的
 主要来源。
 

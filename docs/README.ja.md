@@ -50,7 +50,7 @@ notarization 未実施です。初回は Control キーを押しながらアプ�
 「開く」の確認が必要な場合があります。
 
 アプリが大きい主因は完全なオフライン環境です。モデルは約 133MB、
-Python/OCR ランタイムは約 742MB で、PaddleOCR、PaddleX、ONNX Runtime、
+Python/OCR ランタイムは約 685MB で、PaddleOCR、PaddleX、ONNX Runtime、
 OpenCV、PDFium、FastAPI と依存関係を含みます。
 
 ## データと API

@@ -49,7 +49,7 @@ Applications로 드래그하세요. 현재 빌드는 ad-hoc 서명이며 Apple �
 않았습니다. 첫 실행 시 Control-클릭 후 **열기**를 선택해야 할 수 있습니다.
 
 앱 크기의 대부분은 완전한 오프라인 런타임입니다. 모델은 약 133MB,
-Python/OCR 런타임은 약 742MB이며 PaddleOCR, PaddleX, ONNX Runtime,
+Python/OCR 런타임은 약 685MB이며 PaddleOCR, PaddleX, ONNX Runtime,
 OpenCV, PDFium, FastAPI와 종속성을 포함합니다.
 
 ## 데이터, API, 라이선스

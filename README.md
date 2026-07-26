@@ -62,8 +62,8 @@ installation: no account, model download, or document upload is required.
 - 8 GB RAM minimum; 16 GB or more is recommended for large, multi-page PDFs.
 
 The application is large because it is self-contained. In the current build,
-the two ONNX model repositories occupy about 133 MB, while the portable Python
-and OCR runtime occupies about 742 MB. That runtime includes PaddleOCR,
+the app is about 832 MB: the two ONNX model repositories occupy about 133 MB,
+while the portable Python and OCR runtime occupies about 685 MB. That runtime includes PaddleOCR,
 PaddleX, ONNX Runtime, OpenCV, PDFium, FastAPI, and their transitive
 dependencies.
 

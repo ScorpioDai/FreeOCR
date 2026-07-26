@@ -52,7 +52,7 @@ ad-hoc et n'est pas notariée par Apple. Au premier lancement, un
 Control-clic → **Ouvrir** peut être nécessaire.
 
 La taille vient principalement de l'environnement hors ligne complet :
-environ 133Mo de modèles et 742Mo d'environnement Python/OCR incluant
+environ 133Mo de modèles et 685Mo d'environnement Python/OCR incluant
 PaddleOCR, PaddleX, ONNX Runtime, OpenCV, PDFium, FastAPI et leurs dépendances.
 
 ## Données, API et licence

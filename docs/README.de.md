@@ -51,7 +51,7 @@ signiert und nicht von Apple notarisiert. Beim ersten Start kann
 Control-Klick → **Öffnen** erforderlich sein.
 
 Die Größe entsteht vor allem durch die vollständige Offline-Laufzeit:
-ca. 133MB Modelle und ca. 742MB Python/OCR-Umgebung mit PaddleOCR, PaddleX,
+ca. 133MB Modelle und ca. 685MB Python/OCR-Umgebung mit PaddleOCR, PaddleX,
 ONNX Runtime, OpenCV, PDFium, FastAPI und Abhängigkeiten.
 
 ## Daten, API und Lizenz

@@ -52,7 +52,7 @@ notarizada por Apple. En el primer inicio puede ser necesario hacer
 Control-clic → **Abrir**.
 
 El tamaño se debe principalmente al entorno completo sin conexión:
-aproximadamente 133MB de modelos y 742MB de Python/OCR con PaddleOCR, PaddleX,
+aproximadamente 133MB de modelos y 685MB de Python/OCR con PaddleOCR, PaddleX,
 ONNX Runtime, OpenCV, PDFium, FastAPI y sus dependencias.
 
 ## Datos, API y licencia

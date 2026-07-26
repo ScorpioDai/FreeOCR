@@ -51,7 +51,7 @@ PP-OCRv6 medium для поиска и распознавания текста. 
 Control-клик → **Открыть**.
 
 Основную часть размера занимает полноценная офлайн-среда: около 133МБ моделей
-и 742МБ Python/OCR со средой PaddleOCR, PaddleX, ONNX Runtime, OpenCV, PDFium,
+и 685МБ Python/OCR со средой PaddleOCR, PaddleX, ONNX Runtime, OpenCV, PDFium,
 FastAPI и зависимостями.
 
 ## Данные, API и лицензия

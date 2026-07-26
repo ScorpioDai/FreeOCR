@@ -14,7 +14,7 @@
   <a href="README.de.md">Deutsch</a> ·
   <a href="README.fr.md">Français</a> ·
   <a href="README.ru.md">Русский</a> ·
-  <a href="README.es.md">Español</a>
+  <strong>Español</strong>
 </p>
 
 > Versión actual: **1.1.5** · Requiere **macOS 26.0 o posterior** y un

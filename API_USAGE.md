@@ -1,6 +1,6 @@
 # FreeOCR 1.1.5 Local API
 
-[English](API_USAGE.md) · [简体中文](docs/API_USAGE.zh-CN.md)
+**English** · [简体中文](docs/API_USAGE.zh-CN.md)
 
 The default base URL is `http://127.0.0.1:8766`. You can change the port,
 enable LAN access, and set an optional Bearer token in Settings. Restart the

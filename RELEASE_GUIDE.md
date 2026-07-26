@@ -7,7 +7,6 @@ PP-OCRv6 medium DET 与 REC ONNX 模型，可以离线即开即用。
 
 | 文件 | 用途 | 包含模型 |
 | --- | --- | --- |
-| `FreeOCR.app` | 可直接运行的 App | 是 |
 | `FreeOCR-1.1.5-arm64.dmg` | 拖入“应用程序”的压缩安装镜像 | 是 |
 | `FreeOCR-1.1.5-arm64.zip` | App 的可搬运压缩包 | 是 |
 | `FreeOCR-1.1.5-source.zip` | 复盘、修复和重新构建源码 | 否 |
@@ -19,6 +18,14 @@ App 内包含：
 - PP-OCRv6 medium DET 与 REC 完整 ONNX 仓库文件；
 - Python、PaddleOCR、PaddleX、ONNX Runtime、FastAPI、PDFium 等运行依赖；
 - 本机与局域网 OCR API。
+
+## 本地保留建议
+
+项目目录保留当前 Git 源码，以及上表中的 DMG、arm64 ZIP 和两个源码 ZIP
+即可。`FreeOCR-1.1.5-arm64.zip` 建议保留：它不仅是 DMG 之外的备用安装方式，
+还完整保存了已经配置好的运行环境与模型，可用于以后核对或恢复发行包。
+`.build`、`work`、`Runtime/.venv`、`Runtime/python` 和单独展开的
+`release/FreeOCR.app` 都是可重新生成的中间产物，无需长期保存。
 
 ## 数据位置
 

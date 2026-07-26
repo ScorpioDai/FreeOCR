@@ -1,6 +1,6 @@
 # FreeOCR 1.1.5 本地 API
 
-[English](../API_USAGE.md) · [简体中文](API_USAGE.zh-CN.md)
+[English](../API_USAGE.md) · **简体中文**
 
 默认地址为 `http://127.0.0.1:8766`。可在设置中修改端口、开启局域网访问，
 并配置可选 Bearer Token；修改后需要重新启动 API 服务。

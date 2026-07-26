@@ -17,6 +17,13 @@
   <a href="README.es.md">Español</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ScorpioDai/FreeOCR/releases/tag/v1.1.5"><img src="https://img.shields.io/badge/version-1.1.5-0A84FF?style=flat-square" alt="Version 1.1.5"></a>
+  <img src="https://img.shields.io/badge/macOS-26%2B-1C1C1E?style=flat-square" alt="macOS 26 or later">
+  <img src="https://img.shields.io/badge/Apple%20Silicon-required-34C759?style=flat-square" alt="Apple Silicon required">
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial-FF3B30?style=flat-square" alt="PolyForm Noncommercial License"></a>
+</p>
+
 > Version actuelle : **1.1.5** · Nécessite **macOS 26.0 ou ultérieur** et
 > un **Mac Apple Silicon**. L'interface de l'application est uniquement
 > disponible en anglais et en chinois simplifié.
